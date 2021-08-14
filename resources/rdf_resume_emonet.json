@@ -210,7 +210,7 @@
   {
     @id: "http://vemonet.github.io/person/VincentEmonet",
     @type: "http://xmlns.com/foaf/0.1/person"
-    name: "Vincent Emonet",
+    name: "Peter Yang",
     givenName: "Vincent",
     familyName: "Emonet",
     firstName: "Vincent",

@@ -103,7 +103,7 @@ Publication : <a href='http://ceur-ws.org/Vol-1272/paper_121.pdf' target='_blank
     FOUR_EXPE_TXT: `Use of quantitative PCR and western blot to study expression of DNA and proteins in a laboratory that studies the mechanisms and therapeutic approaches of metabolic dysfunction and diabetes (INSERM Unit 907)`,
     
     FIRST_EDU_TITLE: "Master's degree, Physiology, biotechnology and computer science",
-    FIRST_EDU_LOCATION: "2012 - 2014 at <i>University of Poitiers</i>, France",
+    FIRST_EDU_LOCATION: "2012 - 2014 at <i>Wuhan University</i>, China",
     FIRST_EDU_TXT: `Biotechnology specialization
 <ul>
   <li>Java, JEE and Android development</li>
